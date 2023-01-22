@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'beatu'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2330B0E142474D439A10C8C80F851692 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC36432E9634472389E5683F4F454BAA }}
           package: .
