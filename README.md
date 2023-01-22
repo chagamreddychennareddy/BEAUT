@@ -21,9 +21,9 @@ Project Description           :  Beauty is the real emotion.
 Primary Azure Technology      :  Static Web Apps, Azure Health Bot,App service.
 .................................................................................................................................................................
 
-1.Static Web App URL : https://white-desert-0cbe66210.2.azurestaticapps.net
+1.Static Web App URL : https://jolly-water-04c52d910.2.azurestaticapps.net
 
-2.Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : 
+2.Azure Health Bot : "" Health bot service avilable in the botum of tha wepsite "" URL : https://jolly-water-04c52d910.2.azurestaticapps.net/bot.html
 
 3.App Service URL : https://beaut.azurewebsites.net
 .................................................................................................................................................................
@@ -33,4 +33,4 @@ Project demo video URL:
 
 
 
-## MY WEBSITE LINK IS : https://white-desert-0cbe66210.2.azurestaticapps.net
+## MY WEBSITE LINK IS : https://jolly-water-04c52d910.2.azurestaticapps.net
