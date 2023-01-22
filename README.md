@@ -1,5 +1,4 @@
 # BEAUT
-# Sravans Beauty Parlour and Spa
 # 😍BEAUT  ✨
 ## finalpro:Future Ready Talent Project By chagamreddychennareddy
 ##  fashion Website
